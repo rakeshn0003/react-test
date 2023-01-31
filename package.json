@@ -1,0 +1,23 @@
+{
+  "name": "react-router-dynamic-routes",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@uifabric/icons": "^6.3.0",
+    "child": "0.0.3",
+    "jsx": "0.9.89",
+    "office-ui-fabric-react": "6.132.0",
+    "react": "16.7.0",
+    "react-dom": "16.7.0",
+    "react-router-dom": "4.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
